@@ -1,0 +1,17 @@
+{
+  "config": {
+    "windowSize": 8,
+    "minSamples": 4,
+    "madThreshold": 6,
+    "ewmaAlpha": 0.25,
+    "pageHinkleyDelta": 0.1,
+    "driftThreshold": 25
+  },
+  "points": [
+    { "timestamp": "2026-06-19T09:00:00Z", "series": "api.latency.p95", "value": 100 },
+    { "timestamp": "2026-06-19T09:01:00Z", "series": "api.latency.p95", "value": 101 },
+    { "timestamp": "2026-06-19T09:02:00Z", "series": "api.latency.p95", "value": 99 },
+    { "timestamp": "2026-06-19T09:03:00Z", "series": "api.latency.p95", "value": 100 },
+    { "timestamp": "2026-06-19T09:04:00Z", "series": "api.latency.p95", "value": 190 }
+  ]
+}
