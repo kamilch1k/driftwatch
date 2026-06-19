@@ -1,0 +1,12 @@
+bin/
+dist/
+reports/
+coverage.out
+*.log
+*.tmp
+.env
+.env.*
+!.env.example
+.cache/
+go-build-cache/
+go-tmp/
